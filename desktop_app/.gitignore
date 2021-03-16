@@ -34,7 +34,7 @@
 
 # Web related
 lib/generated_plugin_registrant.dart
-
+#lib/github_oauth_credentials.dart
 # Symbolication related
 app.*.symbols
 

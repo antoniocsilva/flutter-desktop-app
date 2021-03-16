@@ -1,5 +1,5 @@
 // ignore: todo
-//TODO(CodelabUser): Create an OAuth Appcd
+//TODO(CodelabUser): Create an OAuth App
 const githubClientId = 'YOUR_GITHUB_CLIENT_ID_HERE';
 const githubClientSecret = 'YOUR_GITHUB_CLIENT_SECRET_HERE';
 
